@@ -1,0 +1,13 @@
+URL completa:       http://127.0.0.1:5500/index.html   
+Protocolo:          http 
+Host:               127.0.0.1
+Puerto:             5500
+Ruta:               /index.html	
+Método:             GET
+Código de estado:   200 OK
+
+URL probada:           http://127.0.0.1:5500/promociones.html
+Método:                GET
+Código de estado:      404 Not Found
+Significado:         El servidor respondió, pero no existe un recurso en esa ruta.
+Qué muestra la página: Mensaje de error "Cannot GET /promociones.html"
